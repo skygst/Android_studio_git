@@ -1,4 +1,5 @@
-b txt
+﻿b txt
 123456789
 111gst
 Ŷ  Mygard!
+day day study!
